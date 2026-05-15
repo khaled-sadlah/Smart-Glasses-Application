@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079414262963",
+    "project_id": "senior-ade3b",
+    "storage_bucket": "senior-ade3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079414262963:android:1da3907e2e1a781b8cf4c6",
+        "android_client_info": {
+          "package_name": "com.example.senior"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqCmLvG7toljqG6H7hoAvWivotq1MV7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
