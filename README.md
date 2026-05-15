@@ -62,6 +62,5 @@ This is the **mobile companion application** for the Smart Glasses with Voice As
 
   <p align="center">
     <img width="250" alt="Aboud us" src="https://github.com/user-attachments/assets/eb8ea961-28a3-4817-b868-2eda1a835891" />
-    <img width="250" alt="Add New Face" src="https://github.com/user-attachments/assets/c37fdce5-a1fa-4f46-95c6-c61662257d1d" />
-    <img width="250" alt="Glasses Picture" src="https://github.com/user-attachments/assets/80f656c2-f9ff-4303-8eae-cbd8261ff943" />
+    <img width="500" alt="Glasses Picture" src="https://github.com/user-attachments/assets/80f656c2-f9ff-4303-8eae-cbd8261ff943" />
   </p>
