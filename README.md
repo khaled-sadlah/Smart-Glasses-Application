@@ -34,7 +34,7 @@ This is the **mobile companion application** for the Smart Glasses with Voice As
 
 1. Install the APK on the PA's Android phone.
 2. Login or sign up as a caregiver.
-   for testing use Email: bkmglasses@gmail.com and Password: bkmglasses
+   Use your own test account. Public documentation does not include shared login credentials.
 3. Pair with the blind user's device via QR code.
 4. Access features like:
    - Sending face data
